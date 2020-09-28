@@ -1,8 +1,8 @@
 ## Demo GIF
 
-*Please forgive the low frame rate of demo GIF due to file size restrictions* 
+*Please forgive the quality of demo GIF due to file size restrictions* 
 
-![Sudoku-Demo GIF](https://github.com/JiaWeiPls/IM1003-Sudoku-With-Java/blob/master/Sudoku%20Demo3.gif)
+![Sudoku-Demo GIF](https://github.com/JiaWeiPls/IM1003-Sudoku-With-Java/blob/master/Sudoku%20Demo2.gif)
 
 ## Installation
 
